@@ -7,6 +7,5 @@ You can test it here: https://vladel-todo-app.netlify.app/
 The project uses ES6 with classes, modules, async/await, localStorage and webpack.
 
 To run the project on local machine:
-
-Install npm modules using: "npm install"
-Run "npm run dev-server"
+- Install npm modules using: "npm install"
+- Run "npm run dev-server"
